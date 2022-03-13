@@ -49,7 +49,56 @@ const cardArray = [
 {
     name: "pizza",
     img: 'src/images/pizza.png'
-}
+},
+{
+    name: "fries",
+    img: 'src/images/fries.png'
+},
+{
+    name: "chesseburger",
+    img: 'src/images/cheeseburger.png'
+},
+{
+    name: "hotdog",
+    img:'src/images/hotdog.png'
+},
+{
+    name: "ice-cream",
+    img: 'src/images/ice-cream.png'
+},
+{
+    name: "milkshake",
+    img: 'src/images/milkshake.png'
+},
+{
+    name: "pizza",
+    img: 'src/images/pizza.png'
+},
+{
+    name: "fries",
+    img: 'src/images/fries.png'
+},
+{
+    name: "chesseburger",
+    img: 'src/images/cheeseburger.png'
+},
+{
+    name: "hotdog",
+    img:'src/images/hotdog.png'
+},
+{
+    name: "ice-cream",
+    img: 'src/images/ice-cream.png'
+},
+{
+    name: "milkshake",
+    img: 'src/images/milkshake.png'
+},
+{
+    name: "pizza",
+    img: 'src/images/pizza.png'
+},
+
 ]
 
 

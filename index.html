@@ -4,11 +4,25 @@
     <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="src/styles.css" />
+        <!--import icons-->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel = "stylesheet">
         <title>Memory Game</title>
     </head>
     <body>
-        <h3>Score: <span id ="result"></span></h3>
+        <header>
+            <h1>Memory Game</h1>
+            <button class = "hamburger" id = "hamburger">
+                <i class="fa fa-cloud" style = "font-size: 25px; color:white;"></i>
+            </button>
+            <p>Rules:</p>
+        </header>
+        <div class="score-and-timer">
+            <h3>Score: <span id ="result"></span></h3>
+            <h3>Timer: </h3>
+        </div>
+
         <div class= "grid"></div>
+
    </body>
    <script src="src/index.js"></script>
 </html>
